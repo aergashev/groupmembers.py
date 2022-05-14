@@ -68,8 +68,8 @@ instance/
 
 # Scrapy stuff:
 .scrapy
-+998946236222.session
-+998946236222.session-journal
++998946436222.session
++998946436222.session-journal
 config.data
 # Sphinx documentation
 docs/_build/

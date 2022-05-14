@@ -4,15 +4,17 @@ This script can help you easily move members from any group to your group. It wa
 
 ## Getting API from Telegram:
 
-- Go to this link https://core.telegram.org/api/obtaining_api_id
+- Go to this link [Telegram API](https://core.telegram.org/api/obtaining_api_id)
 - Login with with the phone number
 - Fill in the form and you will get API ID and API HASH
 
 ## Configuration:
 
-- Run 'setup.py'
+- Run `setup.py`
 - Enter the needed info
 
 ## Scraping Members:
 
-- Run '''Python scraper.py '''
+- Run `scraper.py`
+- Choose the number of the group you want to get the members from
+- Done
